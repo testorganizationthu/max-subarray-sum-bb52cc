@@ -1,0 +1,1 @@
+First line: N. Second line: N integers.
